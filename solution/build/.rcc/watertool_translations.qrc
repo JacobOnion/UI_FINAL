@@ -1,0 +1,8 @@
+<RCC>
+  <qresource prefix="/i18n">
+    <file alias="myapp_de.qm">/uolstore/home/users/sc23j2o/UI/CW versions/V4/UI-Coursework--main(1)/UI-Coursework--main/solution/build/myapp_de.qm</file>
+    <file alias="myapp_fr.qm">/uolstore/home/users/sc23j2o/UI/CW versions/V4/UI-Coursework--main(1)/UI-Coursework--main/solution/build/myapp_fr.qm</file>
+    <file alias="myapp_es.qm">/uolstore/home/users/sc23j2o/UI/CW versions/V4/UI-Coursework--main(1)/UI-Coursework--main/solution/build/myapp_es.qm</file>
+  </qresource>
+</RCC>
+
